@@ -10,6 +10,3 @@ Full-Stack Developer | Senior Finance Professional
 * Current Role: Senior Financial Analyst - Financial Planning and Analysis @ Align Technology Canada
 * Education: University of Toronto Full Stack Development Bootcamp | Bachelors of Business Administration, Wilfrid Laurier University
 * Languages and Tools: JavaScript ES6, MERN stack, Python, SQL, HTML, CSS
-
-![Taimur's GitHub stats](https://github-readme-stats.vercel.app/api?username=taimurhasan&show_icons=true&theme=github_dark)
-
