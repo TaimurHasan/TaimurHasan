@@ -13,4 +13,4 @@ Full Stack Engineer | Senior Finance Professional
 * Education: University of Toronto Full Stack Development Bootcamp | Bachelors of Business Administration, Wilfrid Laurier University
 * Languages and Tools: JavaScript ES6, MERN stack, Redux, SQL, HTML, CSS
 
-![Taimur's GitHub stats](https://github-readme-stats.vercel.app/api?username=taimurhasan&show_icons=true&theme=radical)
+![Taimur's GitHub stats](https://github-readme-stats.vercel.app/api?username=taimurhasan&show_icons=true&theme=codeSTACKr)
