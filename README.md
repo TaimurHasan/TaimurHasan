@@ -9,7 +9,7 @@ Within my profile and my repositories, you will find my journey in the world of 
 ## About Me:
 Full Stack Engineer | Senior Finance Professional
 
-* Current Role: Frontend Developer @ DormIt
+* Current Role: Full Stack Software Engineer @ Manulife
 * Education: University of Toronto Full Stack Development Bootcamp | Bachelors of Business Administration, Wilfrid Laurier University
 * Languages and Tools: JavaScript ES6, MERN stack, Redux, SQL, HTML, CSS
 
